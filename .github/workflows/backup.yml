@@ -1,0 +1,19 @@
+name: Backup
+
+on:
+  schedule:
+    - cron: 0 3 * * *
+  workflow_dispatch:
+
+jobs:
+  save-list:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Run Backup
+        uses: lucas8x/myanimelist-backup-action@main
+        with:
+          mal_username: ${{ vars.MAL_USERNAME }}
+          hide_username: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
