@@ -13,7 +13,7 @@ jobs:
       - name: Run Backup
         uses: lucas8x/myanimelist-backup-action@main
         with:
-          mal_username: Evomera
+          mal_username: ${{ secrets.MAL_USERNAME }}
           hide_username: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
