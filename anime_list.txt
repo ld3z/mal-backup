@@ -169,7 +169,6 @@ Naruto - Ep 1/220
 Tomodachi Game - Ep 12/12
 Yakusoku no Neverland 2nd Season - Ep 0/11
 Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e - Ep 9/12
-"Oshi no Ko" - Ep 0/11
 Aishang Ta de Liyou - Ep 0/22
 Akuyaku Reijou nanode Last Boss wo Kattemimashita - Ep 0/12
 Amagami SS - Ep 0/25
@@ -246,3 +245,4 @@ White Album 2 - Ep 0/13
 Yahari Ore no Seishun Love Comedy wa Machigatteiru. - Ep 0/13
 Yamada-kun to 7-nin no Majo - Ep 0/12
 Yumemiru Danshi wa Genjitsushugisha - Ep 0/12
+[Oshi no Ko] - Ep 0/11
