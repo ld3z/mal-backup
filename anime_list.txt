@@ -1,9 +1,8 @@
 Guilty Crown - Ep 14/22
 High School DxD - Ep 9/12
 One Piece - Ep 376/0
-Seihantai na Kimi to Boku - Ep 2/12
+Seihantai na Kimi to Boku - Ep 3/12
 Shibou Yuugi de Meshi wo Kuu. - Ep 1/11
-Spy x Family Season 3 - Ep 11/13
 Wandance - Ep 11/12
 3D Kanojo: Real Girl - Ep 12/12
 Ai no Utagoe wo Kikasete - Ep 1/1
@@ -135,6 +134,7 @@ Spy x Family - Ep 12/12
 Spy x Family Movie: Code: White - Ep 1/1
 Spy x Family Part 2 - Ep 13/13
 Spy x Family Season 2 - Ep 12/12
+Spy x Family Season 3 - Ep 13/13
 Suki na Ko ga Megane wo Wasureta - Ep 13/13
 Suki tte Ii na yo. - Ep 13/13
 Sword Art Online - Ep 25/25
@@ -245,6 +245,7 @@ Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2 - Ep 0/12
 Rokudou no Onna-tachi - Ep 0/12
 Romeo x Juliet - Ep 0/24
 Saenai Heroine no Sodatekata - Ep 0/12
+Saijo no Osewa: Takane no Hanadarake na Meimonkou de, Gakuin Ichi no Ojousama (Seikatsu Nouryoku Kaimu) wo Kagenagara Osewa suru Koto ni Narimashita - Ep 0/0
 Shinobi no Ittoki - Ep 0/12
 Shinseiki Evangelion - Ep 0/26
 Sousei no Onmyouji - Ep 0/50
@@ -268,4 +269,5 @@ Witch Watch - Ep 0/25
 Yahari Ore no Seishun Love Comedy wa Machigatteiru. - Ep 0/13
 Yamada-kun to 7-nin no Majo - Ep 0/12
 Yumemiru Danshi wa Genjitsushugisha - Ep 0/12
+Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku - Ep 0/12
 [Oshi no Ko] - Ep 0/11
